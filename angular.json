@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "socgen"
+  "defaultProject": "socgen",
+  "cli": {
+    "analytics": false
+  }
 }
